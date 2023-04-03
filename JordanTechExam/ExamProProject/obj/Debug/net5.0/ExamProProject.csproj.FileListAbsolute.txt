@@ -1,0 +1,47 @@
+C:\Users\jorda\source\repos\ExamProProject\bin\Debug\net5.0\ExamProProject.exe
+C:\Users\jorda\source\repos\ExamProProject\bin\Debug\net5.0\ExamProProject.deps.json
+C:\Users\jorda\source\repos\ExamProProject\bin\Debug\net5.0\ExamProProject.runtimeconfig.json
+C:\Users\jorda\source\repos\ExamProProject\bin\Debug\net5.0\ExamProProject.runtimeconfig.dev.json
+C:\Users\jorda\source\repos\ExamProProject\bin\Debug\net5.0\ExamProProject.dll
+C:\Users\jorda\source\repos\ExamProProject\bin\Debug\net5.0\ref\ExamProProject.dll
+C:\Users\jorda\source\repos\ExamProProject\bin\Debug\net5.0\ExamProProject.pdb
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.csproj.AssemblyReference.cache
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.AssemblyInfo.cs
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.dll
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ref\ExamProProject.dll
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.pdb
+C:\Users\jorda\source\repos\ExamProProject\obj\Debug\net5.0\ExamProProject.genruntimeconfig.cache
+D:\VS Project Codes\ExamProProject\bin\Debug\net5.0\ExamProProject.exe
+D:\VS Project Codes\ExamProProject\bin\Debug\net5.0\ExamProProject.deps.json
+D:\VS Project Codes\ExamProProject\bin\Debug\net5.0\ExamProProject.runtimeconfig.json
+D:\VS Project Codes\ExamProProject\bin\Debug\net5.0\ExamProProject.runtimeconfig.dev.json
+D:\VS Project Codes\ExamProProject\bin\Debug\net5.0\ExamProProject.dll
+D:\VS Project Codes\ExamProProject\bin\Debug\net5.0\ref\ExamProProject.dll
+D:\VS Project Codes\ExamProProject\bin\Debug\net5.0\ExamProProject.pdb
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.csproj.AssemblyReference.cache
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.AssemblyInfoInputs.cache
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.AssemblyInfo.cs
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.csproj.CoreCompileInputs.cache
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.dll
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ref\ExamProProject.dll
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.pdb
+D:\VS Project Codes\ExamProProject\obj\Debug\net5.0\ExamProProject.genruntimeconfig.cache
+D:\VS Project Codes\JordanTechExam\ExamProProject\bin\Debug\net5.0\ExamProProject.exe
+D:\VS Project Codes\JordanTechExam\ExamProProject\bin\Debug\net5.0\ExamProProject.deps.json
+D:\VS Project Codes\JordanTechExam\ExamProProject\bin\Debug\net5.0\ExamProProject.runtimeconfig.json
+D:\VS Project Codes\JordanTechExam\ExamProProject\bin\Debug\net5.0\ExamProProject.runtimeconfig.dev.json
+D:\VS Project Codes\JordanTechExam\ExamProProject\bin\Debug\net5.0\ExamProProject.dll
+D:\VS Project Codes\JordanTechExam\ExamProProject\bin\Debug\net5.0\ref\ExamProProject.dll
+D:\VS Project Codes\JordanTechExam\ExamProProject\bin\Debug\net5.0\ExamProProject.pdb
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ExamProProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ExamProProject.AssemblyInfoInputs.cache
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ExamProProject.AssemblyInfo.cs
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ExamProProject.csproj.CoreCompileInputs.cache
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ExamProProject.dll
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ref\ExamProProject.dll
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ExamProProject.pdb
+D:\VS Project Codes\JordanTechExam\ExamProProject\obj\Debug\net5.0\ExamProProject.genruntimeconfig.cache
